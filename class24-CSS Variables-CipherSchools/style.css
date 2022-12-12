@@ -1,0 +1,12 @@
+:root{
+    --primary-color: #f52e5d;
+    --secondary-color: #fff;
+    --big-font: 40px;
+    --small-font: 20px;
+}
+
+p{
+    background: var(--primary-color);
+    color:var(--secondary-color)
+    padding: 10px;
+}
